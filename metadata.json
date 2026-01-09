@@ -1,0 +1,7 @@
+{
+  "name": "EduManage Pro",
+  "description": "A comprehensive school data management system for teachers and students, featuring attendance tracking, class logs, and secure peer messaging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
